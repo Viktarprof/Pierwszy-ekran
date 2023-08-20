@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Pierwszy-ekran/static/css/main.ede450e2.css",
+    "main.js": "/Pierwszy-ekran/static/js/main.d77679bb.js",
+    "static/media/bgMenu.svg": "/Pierwszy-ekran/static/media/bgMenu.483d7e5b31f11ccad465.svg",
+    "static/media/bestPicture1.png": "/Pierwszy-ekran/static/media/bestPicture1.897845ea37e1ddc23db3.png",
+    "static/media/cartIcon.svg": "/Pierwszy-ekran/static/media/cartIcon.3d34d2c19c0051d38065650f47f3cc17.svg",
+    "static/media/search.svg": "/Pierwszy-ekran/static/media/search.f55a090cefbea111d14306773827ad47.svg",
+    "static/media/logoGimeMe.svg": "/Pierwszy-ekran/static/media/logoGimeMe.9c9feffb29582a31e23a3e0b3043059c.svg",
+    "static/media/heart.svg": "/Pierwszy-ekran/static/media/heart.c8c6edb585e119ef11570b296972cffe.svg",
+    "static/media/scrolling.svg": "/Pierwszy-ekran/static/media/scrolling.43ca2d87537c4679252655ff54aef1d7.svg",
+    "static/media/pictResult1.png": "/Pierwszy-ekran/static/media/pictResult1.bc90484cf5d586ceb470.png",
+    "index.html": "/Pierwszy-ekran/index.html",
+    "main.ede450e2.css.map": "/Pierwszy-ekran/static/css/main.ede450e2.css.map",
+    "main.d77679bb.js.map": "/Pierwszy-ekran/static/js/main.d77679bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ede450e2.css",
+    "static/js/main.d77679bb.js"
+  ]
+}
